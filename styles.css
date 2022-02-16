@@ -1,0 +1,28 @@
+h1 {
+    padding: 10px;
+    border: 2px solid purple;
+    display: flex;
+    flex-direction: row; /* change col */
+    justify-content: center; /* change from center to space-betwen */
+    align-items: center;
+    align-items: flex-end;
+}
+
+ul {
+    
+    background-color: red;
+    margin: 10px;
+}
+
+ol {
+    
+    background-color: green;
+    margin: 10px;
+}
+
+.child-3 {
+    width: 75px;
+    height: 75px; /* play around with the heights and widths of each child element */
+    background-color: blue;
+    margin: 10px;
+}

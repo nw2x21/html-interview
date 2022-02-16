@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">    
+</head>
+<body>
+    <div></div>
+    <h1> Jesse Alvarez</h1>
+    <a href="http://jessealvarez.github.io/html-interview/"></a>
+    <ul>
+        <li><strong>Where are you from?: </strong>Virginia Beach, VA</li>
+        <li><strong>Morning or night person?:</strong> Morning Person</li>
+        <li><strong>Coffe or tea?:</strong> Coffee</li>
+        <li><strong>Are you a traveler or homebody?:</strong> Homebody </li>
+        <li><strong>What fictional place would you like to visit?:</strong> Halloween Town</li>
+        <li><strong>What fictional place would you like to visit?:</strong> Both </li>
+        <li><strong>What's the worst job you've ever had?:</strong> Little caeser's Pizza</li>
+        <li><strong>What's your favorite holiday? Why?:</strong> Halloween because I love scary stuff </li>
+        <li><strong>What sport would you compete in if you were in the Olympics?:</strong> Professional Napping </li>
+        <li><strong>What's a book or movie you've read or watched recently that you would recommend?:</strong> Movie: Drive My Car directed by Ryusuke Hamaguchi</li>
+    </ul>
+    <div></div>
+    <div>
+        <h1>Juan Ramirez</h1>
+        <a href="https://helboi559.github.io/html-interview/">My github</a>
+        <br /><br />
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
+          alt="phone"
+          height="250px"
+        />
+        <ol>
+          <li><strong>Where are you from?</strong>California</li>
+          <li><strong>Morning or night person?</strong>Morning</li>
+          <li><strong>Coffee or Tea?</strong>Coffee</li>
+          <li><strong>Are you a traveler or a homeboy?</strong>Traveler</li>
+          <li>
+            <strong>What fictional place would you like to visit?</strong>Kanto
+            Region
+          </li>
+          <li><strong>Are you a cat or a dog person?</strong>Both</li>
+          <li><strong>What's the worst job you ever had?</strong>UPS</li>
+          <li>
+            <strong>What's your favorite holiday? Why?</strong>Valentine's Day,
+            its Cliche!
+          </li>
+          <li>
+            <strong
+              >What sport would you compete in if you were in the
+              Olympics?</strong
+            >
+            Swimming
+          </li>
+          <li>
+            <strong
+              >What's a book or movie you've read or watched recently that you
+              would recommend?:</strong
+            >
+            Movie: Spiderman    
+      
+    <div></div>
+    <div>
+    <h1>Treasure-Adrienne Fennell</h1>    
+        <a href ="nw2x21/A-Fennell-html-interview">MyGitHub</a>
+        <br /><br />
+        <img
+         src="https://media-exp1.licdn.com/dms/image/C4E03AQH_YVVt-2MOsQ/profile-displayphoto-shrink_400_400/0/1581690010902?e=1649289600&v=beta&t=yBjqL01a9o1zeF0rs9RDK5o-du9QkGkjYdDTBMcIGMw"
+         alt="LIPhoto"
+         height="250px">
+         <br /><br />   
+
+        <ol>
+            <li><strong>Where are you from?</strong>Illinois</li>
+            <li><strong>Morning or night person?</strong>Morning</li>
+            <li><strong>Coffee or Tea?</strong>Coffee</li>
+            <li><strong>Are you a traveler or a homeboy?</strong>Traveler who's a homebody</li>
+            <li><strong>What fictional place would you like to visit?</strong>Star Wars Mos Eisley Cantina</li>
+            <li><strong>Are you a cat or a dog person?</strong>Other people's pets</li>
+            <li><strong>What's the worst job you ever had?</strong>Car Sales</li>
+            <li><strong>What's your favorite holiday? Why?</strong>July 4th, Summer Bar-B-Ques</li>
+            <li><strong>What sport would you compete in if you were in the Olympics?</strong>Basketball and Track & Field Events</li>
+            <li><strong>What's a book or movie you've read or watched recently that you would recommend?:</strong>All Matrix Movies</li>
+        </ol>
+      </div>
+</body>
+</html>
